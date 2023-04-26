@@ -6,6 +6,6 @@
 <a href="https://linkedin.com/in/kavaan-damirchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavaan-damirchi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/3194835" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3194835" height="30" width="40" /></a>
 </p>
-<a href="https://medium.com/@KeivanDamirchi" target="blank"><img align="center" src="https://github.com/Medium/medium-logos/blob/master/01_Logo/02_White/PNG/RGB/Medium-Logo-White-RGB@1x.png?raw=true" alt="3194835" height="30" width="40" /></a>
+<a href="https://medium.com/@KeivanDamirchi" target="blank"><span style="color:#ffffff;font-size:40px">M</span></a>
 </p>
 
