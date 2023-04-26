@@ -6,16 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/keivandmc" target="blank"><img src="https://img.shields.io/twitter/follow/keivandmc?logo=twitter&style=for-the-badge" alt="keivandmc" /></a> </p>
 
-- 🔭 I’m currently working on **License Plate Recognition**
-
-- 🌱 I’m currently learning **Cloud Development Technologies**
-
-- 👯 I’m looking to collaborate on **Form Generator Software**
-
-- 📝 I regularly write articles on [https://virgool.io/@KeivanDamirchi](https://virgool.io/@KeivanDamirchi)
-
-- 💬 Ask me about **.net core, nodejs**
-
 - 📫 How to reach me **kavaandamirchi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
